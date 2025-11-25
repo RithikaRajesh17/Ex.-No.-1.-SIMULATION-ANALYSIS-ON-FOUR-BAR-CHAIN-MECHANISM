@@ -53,10 +53,12 @@
 
 
 ## Output:
+![WhatsApp Image 2025-11-25 at 18 55 46_b3272bcc](https://github.com/user-attachments/assets/0d1e5d12-9f17-438e-9fbd-3f48489aa045)
 
 
-### Name:
-### Register Number: 
+
+### Name: Rithika R
+### Register Number: 212224240136
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
